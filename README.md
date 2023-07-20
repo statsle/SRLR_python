@@ -8,7 +8,7 @@ This repository presents numerical simulations that analyze the empirical risks 
 
 Suppose we observe data vectors  (x<sub>i</sub>,y<sub>i</sub>) that follow a linear model y<sub>i</sub>=x<sub>i</sub><sup>T</sup>&beta;<sup>*</sup>+&epsilon;<sub>i</sub>, i=1,...n, where y<sub>i</sub> is a univariate response,  x<sub>i</sub> is a d-dimensional predictor, &beta;<sup>*</sup> denotes the vector of regression coefficients, and &epsilon;<sub>i</sub> is a random error. We consider the ridgeless least square estimator β̂=(X<sup>T</sup>X)<sup>+</sup>X<sup>T</sup>Y.
 
-With this package, the simulation results in [this paper](https://arxiv.org/abs/2302.01088) can be reporduced.
+With this package, the simulation results in [this paper](https://arxiv.org/abs/2302.01088) can be reproduced.
 
 ## Examples
 
