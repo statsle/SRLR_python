@@ -12,14 +12,7 @@ With this package, the simulation results in [this paper](https://arxiv.org/abs/
 
 ## Examples
 
-The sketched least square estimator is implemented as follows:
-
-```Python
-sketched = estimators.SketchedRidgelessRegressor()
-```
-
-For further details, please see `tutorial.ipynb` as an example. 
-
+Please refer to [tutorial.ipynb](https://github.com/statsle/SRLR_python/blob/main/tutorial.ipynb) for a comprehensive example and step-by-step guide.
 
 
 ## Reference
