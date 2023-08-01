@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+src/SRLR/__init__.py
+src/SRLR/asymptotics.py
+src/SRLR/datasets.py
+src/SRLR/estimators.py
+src/SRLR/optimal_m.py
+src/SRLR/simulation.py
+src/SRLR/utils.py
+src/SRLR.egg-info/PKG-INFO
+src/SRLR.egg-info/SOURCES.txt
+src/SRLR.egg-info/dependency_links.txt
+src/SRLR.egg-info/requires.txt
+src/SRLR.egg-info/top_level.txt

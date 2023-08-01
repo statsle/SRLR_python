@@ -1,3 +1,21 @@
+Metadata-Version: 2.1
+Name: SRLR
+Version: 0.1.8
+Summary: A package for sketched ridgeless estimator simulations, optimizing generalization. Identify the best sketching size to minimize out-of-sample risks. Stable risk curves in optimally sketched estimator eliminate peaks found in full-sample estimator. SRLR offers practical method to discover the ideal sketching size.
+Home-page: https://github.com/statsle/SRLR_python
+Author: Siyue Yang
+Author-email: syue.yang@mail.utoronto.ca
+License: MIT
+Keywords: python,sketched ridgeless linear regression
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # SRLR
 
 Sketched Ridgeless Linear Regression
@@ -10,13 +28,6 @@ Suppose we observe data vectors  (x<sub>i</sub>,y<sub>i</sub>) that follow a lin
 
 With this package, the simulation results in [this paper](https://arxiv.org/abs/2302.01088) can be reporduced.
 
-## Installation
-
-Install SRLR_python from PyPI:
-``` python
-pip install SRLR
-```
-
 ## Examples
 
 Please refer to [tutorial.ipynb](https://github.com/statsle/SRLR_python/blob/main/tutorial.ipynb) for a comprehensive example and step-by-step guide.
@@ -25,3 +36,5 @@ Please refer to [tutorial.ipynb](https://github.com/statsle/SRLR_python/blob/mai
 ## Reference
 
 Chen, X., Zeng, Y., Yang, S. and Sun, Q. Sketched Ridgeless Linear Regression: The Role of Downsampling. [Paper](https://arxiv.org/abs/2302.01088)
+
+
