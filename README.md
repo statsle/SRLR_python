@@ -12,7 +12,7 @@ With this package, the simulation results in [this paper](https://arxiv.org/abs/
 
 ## Installation
 
-Install SRLR_python from PyPI:
+Install SRLR_python from [PyPI](https://pypi.org/project/SRLR/):
 ``` python
 pip install SRLR
 ```
